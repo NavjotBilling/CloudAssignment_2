@@ -17,7 +17,7 @@ var configDB = require('./backend/db.js');
 var urls = [];
 var methodOverride = require('method-override');
 
-mongoose.connect('mongodb://navjot:abcxyz123@ds064188.mlab.com:64188/cloudapp');
+mongoose.connect('mongodb://navjot:abcxyz123@ds060478.mlab.com:60478/cloudapp');
 // configure the passport
 
 // setting up the application
@@ -30,8 +30,7 @@ app.use(bodyParser());
 app.set('view engine', 'ejs');
 // setting up the views
 require('./backend/passport')(passport);
-
-app.use(session({ secret: 'ilovescotchscotchyscotchscotch' })); // session secret
+app.use(session({ secret: 'olaamigo' })); // session secret
 app.use(passport.initialize());
 app.use(passport.session());
 

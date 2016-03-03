@@ -1,0 +1,141 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Individual Beef Wellingtons</title>
+        <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+        <meta name="copyright" content="Copyright 2016 Imgur, Inc." />
+        <meta id="viewport" name="viewport" content="width=278, user-scalable=yes" />
+        <link rel="stylesheet" type="text/css" href="//s.imgur.com/min/sharePlayer.css?1456535794" />
+
+        <style type="text/css">
+            #content, #video {
+                width:  278px;
+                height: 279px;
+            }
+            
+            #chrome, #progress {
+                width: 278px;
+            }
+        </style>
+        
+        <link rel="alternate" type="application/json+oembed" href="http://api.imgur.com/oembed.json?url=http://i.imgur.com/selbSYz.gifv" title="Individual Beef Wellingtons" />
+        <link rel="alternate" type="application/xml+oembed" href="http://api.imgur.com/oembed.xml?url=http://i.imgur.com/selbSYz.gifv" title="Individual Beef Wellingtons" />
+                
+        <link rel="canonical"                 href="http://i.imgur.com/selbSYz.gifv" />
+
+        <meta property="og:site_name"         content="Imgur" />
+        <meta property="og:title"             content="Individual Beef Wellingtons" />
+        <meta property="og:type"              content="video.other" />
+                <meta property="og:url"               content="https://i.imgur.com/selbSYz.mp4" />
+        <meta property="og:image"             content="https://i.imgur.com/selbSYzh.jpg" />
+        <meta property="og:description"       content="Quick Tip: when you sauté the mushrooms, make sure they are quite dry after adding sherry. Otherwise you might get a soggy pastry. You can also sub sherry with red wine or omit altogether.
+ 
+Oven Temp: reduced mine to 400F so it didn&amp;#039;t over brown the pastry; the meat worked out fine. " />
+        <meta property="og:video:width"       content="278" />
+        <meta property="og:video:height"      content="279" />
+        <meta property="og:video"             content="https://i.imgur.com/selbSYz.mp4" />
+        <meta property="og:video:secure_url"  content="https://i.imgur.com/selbSYz.mp4" />
+        <meta property="og:video:type"        content="video/mp4" />
+        
+        
+        <meta name="twitter:site"                       content="@imgur" />
+        <meta name="twitter:creator"                    content="@imgur" />
+        <meta name="twitter:domain"                     content="imgur.com" />
+        <meta name="twitter:app:id:googleplay"          content="com.imgur.mobile" />
+        <meta name="twitter:card"                       content="player" />
+        <meta name="twitter:title"                      content="Individual Beef Wellingtons" />
+        <meta name="twitter:description"                content="Quick Tip: when you sauté the mushrooms, make sure they are quite dry after adding sherry. Otherwise you might get a soggy pastry. You can also sub sherry with red wine or omit altogether.
+ 
+Oven Temp: reduced mine to 400F so it didn&amp;#039;t over brown the pastry; the meat worked out fine. " />
+        <meta name="twitter:image"                      content="https://i.imgur.com/selbSYzh.jpg" />
+        <meta name="twitter:player"                     content="https://i.imgur.com/selbSYz.gifv?twitter#t" />
+        <meta name="twitter:player:width"               content="278" />
+        <meta name="twitter:player:height"              content="279" />
+        <meta name="twitter:player:stream"              content="https://i.imgur.com/selbSYz.mp4" />
+        <meta name="twitter:player:stream:content_type" content="video/mp4">
+        
+        <!--[if lte IE 8]><script type="text/javascript" src="//s.imgur.com/min/iepoly.js?1456535794"></script>
+<![endif]-->
+    </head>
+    <body id="body">
+        <div id="content">
+            <script type="text/javascript">
+                window.image        = 'selbSYz';
+                window.image_size   = '25483158';
+                window.image_width  = '278';
+                window.image_height = '279';
+                window.cdn_url      = '//i.imgur.com';
+                    
+                if(navigator.userAgent.match(/Firefox/)) {
+                    document.body.className = document.body.className + ' firefox';
+                }
+            </script>
+            <div class="vid-container">
+                
+                
+                
+                <div class="post-image">
+    
+
+            <div class="video-container">
+            <script type="text/javascript">
+                var videoItem = {
+                    looping:  true,
+                    width:    278,
+                    height:   279,
+                    size:     25483158,
+                    gifUrl:   '//i.imgur.com/selbSYz.gif',
+                    forceGif: false,
+                    hash:     'selbSYz'
+                }
+            </script>
+            <video poster="//i.imgur.com/selbSYzh.jpg" preload="auto" autoplay="autoplay" muted="muted" loop="loop" webkit-playsinline></video>
+            <div class="video-elements">
+                <source src="//i.imgur.com/selbSYz.webm" type="video/webm">
+                <source src="//i.imgur.com/selbSYz.mp4" type="video/mp4">
+
+                <object style="width: 278px; height: 279px" type="application/x-shockwave-flash"
+                         data="//s.imgur.com/include/flash/gifplayer.swf?1444772065&amp;imgur_video=http://i.imgur.com/selbSYz.mp4&amp;imgur_width=278&amp;imgur_height=279&amp;imgur_url=">
+                    <param name="movie" value="//s.imgur.com/include/flash/gifplayer.swf?1444772065&amp;imgur_video=http://i.imgur.com/selbSYz.mp4&amp;imgur_width=278&amp;imgur_height=279" />
+                    <param name="allowscriptaccess" value="never" />
+                    <param name="flashvars" value="height=279&amp;width=278" />
+                    <param name="width" value="278" />
+                    <param name="height" value="279" />
+                    <param name="version" value="0" />
+                    <param name="scale" value="scale" />
+                    <param name="salign" value="tl" />
+                    <param name="wmode" value="opaque" />
+                </object>
+            </div>
+            <progress value="0" max="100" min="0"></progress>
+            <div class="video-loader"></div>
+            <script id="scriptselbSYz" type="text/javascript" src="//s.imgur.com/min/imageViewerInline.js?1456535794"></script>
+
+        </div>
+    
+</div>
+
+            </div>
+            <script type="text/javascript">
+            var pixel_url = '//i.imgur.com/imageview.gif?a=selbSYz&r=' + encodeURIComponent(document.referrer);
+            var pixel = document.createElement('img');
+            pixel.src = pixel_url;
+            </script>
+            
+            <div id="chrome">
+                <div class="icon">
+                    <a href="//imgur.com/selbSYz"><img src="//i.imgur.com/favicon.ico" /></a>
+                </div>
+                <div class="imgur">
+                    <a href="//imgur.com/selbSYz">Imgur</a>
+                </div>
+                <div class="controls">
+                    <a href="//imgur.com/download/selbSYz">download</a>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+        <script type="text/javascript" src="//s.imgur.com/min/sharePlayer.js?1456535794"></script>
+
+    </body>
+</html>

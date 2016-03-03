@@ -1,0 +1,26 @@
+{
+  "name": "Scrape",
+  "version": "0.0.1",
+  "description": "Scrape",
+  "main": "reddit.js",
+  "dependencies": {
+    "cheerio": "latest",
+    "express": "latest",
+    "request": "latest",
+    "mongoose" : "~4.3.7",
+    "nano"  : "^6.2.0",
+    "bluebird" : "latest",
+    "ejs" : "latest",
+    "passport" : "latest",
+    "passport-local" : "latest",
+    "passport-google-oauth" : "latest",
+    "bcrypt-nodejs" : "latest",
+     "connect-flash" : "~0.1.1",
+    "morgan": "~1.0.0",
+    "body-parser": "~1.0.0",
+    "cookie-parser": "~1.0.0",
+    "method-override": "~1.0.0",
+    "express-session": "~1.0.0"
+
+  }
+}
